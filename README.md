@@ -1,0 +1,1 @@
+# Um timer em JavaScript. Afim de firmar conceitos do uso do 'setInterval' / 'setTimeout'.
